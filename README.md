@@ -4,26 +4,31 @@
 12-Week Virtual Work Experience focusing on Heavy Supplier, Inventory & Warehouse Analytics.
 
 ##  Project Structure
-cadetx-supply-chain-analytics/
+📦 cadetx-supply-chain-analytics/
 │
-├── notebooks/
-│ └── cadetx_analysis.ipynb # Main analysis notebook
+├── 📓 notebooks/
+│   └── 📊 cadetx_analysis.ipynb          # Main analysis notebook
 │
-├── output/
-│ ├── Section_A/ # Data Foundation outputs
-│ ├── Section_B/ # Product & Inventory outputs
-│ ├── Section_C/ # Warehouse Efficiency outputs
-│ ├── Section_D/ # Supplier Procurement outputs
-│ ├── Section_E/ # Customer Analytics outputs
-│ ├── Section_F/ # Forecasting outputs
-│ ├── Section_G/ # Risk & Anomaly outputs
-│ └── Section_H/ # BI Dashboard outputs
+├── 📁 output/
+│   ├── 📂 Section_A/                      # Data Foundation outputs
+│   ├── 📂 Section_B/                      # Product & Inventory outputs
+│   ├── 📂 Section_C/                      # Warehouse Efficiency outputs
+│   ├── 📂 Section_D/                      # Supplier Procurement outputs
+│   ├── 📂 Section_E/                      # Customer Analytics outputs
+│   ├── 📂 Section_F/                      # Forecasting outputs
+│   ├── 📂 Section_G/                      # Risk & Anomaly outputs
+│   └── 📂 Section_H/                      # BI Dashboard outputs
 │
-├── data/ # Source datasets
-├── .gitignore
-└── README.md
-
-## 📈 Analytics Sections Completed
+├── 📂 data/                               # Source datasets
+│   ├── invoices[1].csv
+│   ├── stock_ledger[1].csv
+│   ├── customers[1].csv
+│   ├── products[1].csv
+│   └── ... (other source files)
+│
+├── 📄 .gitignore                          # Git ignore file
+└── 📄 README.md                           # Project documentation
+## Analytics Sections Completed
 
 ### Section A: Data Foundation & Preparation
 - Data Profiling & Structure Analysis
