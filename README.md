@@ -120,9 +120,3 @@
 - Developed forecasting models for demand planning
 - Created interactive dashboards for business intelligence
 
-##  How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/eva501395-svg/cadetx-supply-chain-analytics.git
-      cd cadetx-supply-chain-analytics
-         jupyter notebook notebooks/cadetx_analysis.ipynb
