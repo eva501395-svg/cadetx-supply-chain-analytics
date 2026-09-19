@@ -6,7 +6,7 @@
 
 ---
 
-## 📈 Analytics Modules
+##  Analytics Modules
 
 | # | Section | Focus Area | Key Deliverables |
 |---|---------|-----------|------------------|
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Tools |
 |----------|-------|
@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 How to Run
+
 
 ## Analytics Sections Completed
 
