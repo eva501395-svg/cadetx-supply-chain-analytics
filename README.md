@@ -3,28 +3,38 @@
 ##  Project Overview
 12-Week Virtual Work Experience focusing on Heavy Supplier, Inventory & Warehouse Analytics.
 
-╔══════════════════════════════════════════════════════════════╗
-║         CADETX SUPPLY CHAIN ANALYTICS PROJECT                ║
-╠══════════════════════════════════════════════════════════════╣
-║  📓 notebooks/                                               ║
-║     └─ cadetx_analysis.ipynb                                 ║
-║                                                              ║
-║  📁 output/                                                  ║
-║     ├─ Section_A/  → Data Foundation                         ║
-║     ├─ Section_B/  → Product & Inventory                     ║
-║     ├─ Section_C/  → Warehouse Efficiency                    ║
-║     ├─ Section_D/  → Supplier Procurement                    ║
-║     ├─ Section_E/  → Customer Analytics                      ║
-║     ├─ Section_F/  → Forecasting                             ║
-║     ├─ Section_G/  → Risk & Anomaly                          ║
-║     └─ Section_H/  → BI Dashboards                           ║
-║                                                              ║
-║   data/                                                    ║
-║     └─ [12 CSV source files]                                 ║
-║                                                              ║
-║  📄 .gitignore                                               ║
-║  📄 README.md                                                ║
-══════════════════════════════════════════════════════════════╝
+
+---
+
+## 📈 Analytics Modules
+
+| # | Section | Focus Area | Key Deliverables |
+|---|---------|-----------|------------------|
+| A | **Data Foundation** | Data Profiling, Cleaning & Integration | Cleaned datasets, data dictionary, validation reports |
+| B | **Product & Inventory** | ABC Analysis, Turnover, Stock Health | Product velocity, dead stock, aging analysis |
+| C | **Warehouse Operations** | Space Utilization, Throughput, Capacity | Branch efficiency scores, bottleneck detection |
+| D | **Supplier & Procurement** | OTIF, Lead Time, Performance | Supplier scorecards, risk profiling |
+| E | **Customer Analytics** | RFM, CLV, Churn, Cohorts | Customer segments, retention metrics |
+| F | **Forecasting** | Demand & Inventory Forecasting | Predictive models, scenario analysis |
+| G | **Risk & Anomaly** | Anomaly Detection, Data Integrity | Z-score outliers, shrinkage detection |
+| H | **BI & Visualization** | Dashboards & KPI Framework | Interactive charts, executive KPIs |
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| **Language** | Python 3.x |
+| **Data Processing** | Pandas, NumPy |
+| **Visualization** | Matplotlib, Seaborn |
+| **Environment** | Jupyter Notebook, Anaconda |
+| **Version Control** | Git & GitHub |
+
+---
+
+## 🚀 How to Run
+
 ## Analytics Sections Completed
 
 ### Section A: Data Foundation & Preparation
